@@ -1,0 +1,27 @@
+body{
+    background-color: bisque;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    color: rgba(255, 0, 0, 0.445);
+}
+a{
+    margin: 2rem;
+    text-align: center;
+    text-decoration: none;
+    color: blueviolet;
+    font-weight:700;
+}
+img{
+    margin: 2rem;
+}
+
+#parrafo1 {
+    font-size: 1.5rem;
+}
+
+.center{
+    text-align: center;
+}
+
